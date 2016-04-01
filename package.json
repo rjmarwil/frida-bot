@@ -2,8 +2,8 @@
   "name": "frida",
   "version": "0.0.0",
   "private": true,
-  "author": "Robert Jake Marwil <rjm02006@gmail.com>",
-  "description": "frida-bot",
+  "author": "Jake Marwil",
+  "description": "Pickles",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
